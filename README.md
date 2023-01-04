@@ -44,6 +44,7 @@ Do not use `synchronized` at the same time, look in the direction of `AtomicInte
 length if the text meets the criteria.
 5. After all threads are finished, display the results on the screen.
 
+<a href="https://github.com/netology-code/jd-homeworks/blob/video/volatile/task1/README.md">(RUS version of description)</a>
 ### Result
 ![image](https://user-images.githubusercontent.com/63547457/210635659-61978906-8a98-4276-86c9-b25f050b0b01.png)
 
