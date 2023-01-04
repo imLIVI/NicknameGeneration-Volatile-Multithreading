@@ -24,7 +24,7 @@ To generate 100'000 short words, you used:
 The user has the opportunity to choose from them only those that meet the criteria of a "beautiful" nickname, namely:
 * the generated word is a palindrome, i.e. it reads the same from left to right and from right to left, for example, **abba**;
 * the generated word consists of the same letter, for example, **aaa**;
-* * the letters in the word are ascending: first all **a** (if available), then all **b** (if available), then all **c** and etc . For example, **aaccc**.
+* the letters in the word are ascending: first all **a** (if available), then all **b** (if available), then all **c** and etc . For example, **aaccc**.
 
 You want to count how many "beautiful" words are found among the generated ones with a length of 3, 4, 5, for which you start three counters in static fields.
 The verification of each criterion should be carried out in a separate thread.
